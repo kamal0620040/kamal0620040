@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Neural Networks and Deep Learning
 - 💞️ I’m looking to collaborate on exciting web development project
-- 📫 How to reach me: Feel free to send me a message or collaborate with me through my website at [Link](https://kamalneupane.live/#:~:text=Figma-,Contact%20me,-Name)
+- 📫 How to reach me: Feel free to send me a message or collaborate with me through my website at [Link](https://kamalneupane.vercel.app/#:~:text=Figma-,Contact%20me,-Name)
 
 <!---
 kamal0620040/kamal0620040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
