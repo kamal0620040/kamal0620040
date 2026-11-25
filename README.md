@@ -5,8 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://neupanekamal.com.np"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg"><img src="assets/link-site-light.svg" height="30" alt="Website"></picture></a>&nbsp;
-  <a href="https://www.linkedin.com/in/neupanekamal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="30" alt="LinkedIn"></picture></a>&nbsp;
-  <a href="https://t.me/kamalneupane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-telegram-dark.svg"><img src="assets/link-telegram-light.svg" height="30" alt="Telegram"></picture></a>&nbsp;
-  <a href="https://bit.ly/kamal-resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.svg"><img src="assets/link-resume-light.svg" height="30" alt="Résumé"></picture></a>
+  <br>
+  <a href="https://neupanekamal.com.np" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg"><img src="assets/link-site-light.svg" height="30" alt="Website"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/neupanekamal" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="30" alt="LinkedIn"></picture></a>&nbsp;
+  <a href="https://t.me/kamalneupane" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-telegram-dark.svg"><img src="assets/link-telegram-light.svg" height="30" alt="Telegram"></picture></a>&nbsp;
+  <a href="https://bit.ly/kamal-resume" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.svg"><img src="assets/link-resume-light.svg" height="30" alt="Résumé"></picture></a>
 </p>
