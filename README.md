@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @kamal0620040
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Neural Networks and Deep Learning
-- 💞️ I’m looking to collaborate on exciting web development project
-- 📫 How to reach me: Feel free to send me a message or collaborate with me through my website at [Link](https://kamalneupane.vercel.app/#:~:text=Figma-,Contact%20me,-Name)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="A Figma file. Kamal types 'Kamal Neupane - a Software Engineer'. Claude joins and finishes his intro, styled like his portfolio site. The frame then fills in his tech stack, and Dev Mode shows it as code.">
+</picture>
 
-<!---
-kamal0620040/kamal0620040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://neupanekamal.com.np"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg"><img src="assets/link-site-light.svg" height="30" alt="Website"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/neupanekamal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="30" alt="LinkedIn"></picture></a>&nbsp;
+  <a href="https://t.me/kamalneupane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-telegram-dark.svg"><img src="assets/link-telegram-light.svg" height="30" alt="Telegram"></picture></a>&nbsp;
+  <a href="https://bit.ly/kamal-resume"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.svg"><img src="assets/link-resume-light.svg" height="30" alt="Résumé"></picture></a>
+</p>
